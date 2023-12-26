@@ -1,4 +1,4 @@
-### Olá, pessoal 👋
+### Olá, seja bem-vindo(a) ao meu perfil 👋
 
 - 😄 Meu nome é Thais Karolina.
 - 💞️ Apaixonada por análise de dados e automação de processos.
