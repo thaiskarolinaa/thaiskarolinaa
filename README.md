@@ -13,9 +13,9 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![R](https://img.shields.io/badge/-r-0D1117?style=for-the-badge&logo=r&logoColor=purple&labelColor=0D1117)&nbsp;
 
-## Estudando no momento:
+### Estudando no momento:
 
-![Machine Learning](https://img.shields.io/badge/-Machine-Learning-0D1117?style=for-the-badge&logo=ML&logoColor=purple&labelColor=0D1117)&nbsp;
+![Machine Learning](https://miro.medium.com/v2/resize:fit:512/1*AOSRrffKLWkKqRmDaSQg_g.png);
 
 ### Próximos passos:
 
