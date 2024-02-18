@@ -15,7 +15,7 @@
 
 ## Estudando no momento:
 
-![Machine Learning](https://img.shields.io/badge/-r-0D1117?style=for-the-badge&logo=ML&logoColor=purple&labelColor=0D1117)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-ml-0D1117?style=for-the-badge&logo=ML&logoColor=purple&labelColor=0D1117)&nbsp;
 
 ### Próximos passos:
 
