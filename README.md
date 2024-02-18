@@ -13,7 +13,11 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![R](https://img.shields.io/badge/-r-0D1117?style=for-the-badge&logo=r&logoColor=purple&labelColor=0D1117)&nbsp;
 
-### Próximos passo:
+## Estudando no momento:
+
+![Machine Learning](https://img.shields.io/badge/-r-0D1117?style=for-the-badge&logo=ML&logoColor=purple&labelColor=0D1117)&nbsp;
+
+### Próximos passos:
 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
